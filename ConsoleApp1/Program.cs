@@ -2,3 +2,7 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello 1");
 Console.WriteLine("Hello 2");
+
+Console.WriteLine("Commit 1");
+Console.WriteLine("Commit 2");
+Console.WriteLine("Commit 3");
